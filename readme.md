@@ -51,7 +51,7 @@ E utilizar o comando:
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 # :mailbox: Para contribuir
 
-Caso queira ajudar a implementar novas funcionalidade nessa aplicação, basta propor a sua funcionalidade em [CONTRIBUTING](https://github.com/PedroHenry-Santos/Letmeask/blob/main/CONTRIBUTING.md).
+Caso queira ajudar a implementar novas funcionalidade nessa aplicação, basta propor a sua funcionalidade em [CONTRIBUTING](https://github.com/PedroHenry-Santos/Feedget/blob/main/CONTRIBUTING.md).
 ## :clock10: Histórico de atualizações
 
 Para saber sobre as [versões](https://github.com/PedroHenry-Santos/Feedget/releases) deste código consulte o CHANGELOG detalhado.
