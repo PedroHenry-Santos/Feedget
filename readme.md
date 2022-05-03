@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Website](https://img.shields.io/website?style=flat&up_message=online&labelColor=000000&url=https%3A%2F%2Fletmeask-9b20f.web.app%2F)
-![Badge](https://img.shields.io/github/license/PedroHenry-Santos/Feedget?style=flat&label=LICENSE&color=FFC300&labelColor=000000)
+[![Badge](https://img.shields.io/github/license/PedroHenry-Santos/Feedget?style=flat&label=LICENSE&color=FFC300&labelColor=000000)](https://github.com/PedroHenry-Santos/Feedget/blob/main/LICENCE.md)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/PedroHenry-Santos/Feedget?style=flat&labelColor=000000&color=FFC300)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PedroHenry-Santos/Feedget?color=FFC300&style=flat&labelColor=000000)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pedrohenry-Santos/Feedget?color=FFC300&labelColor=000000)
